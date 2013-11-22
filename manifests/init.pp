@@ -1,6 +1,6 @@
 class libxml2 {
   include homebrew
-  include libxml::config
+  include libxml2::config
 
 
   # 'little-cms2':
