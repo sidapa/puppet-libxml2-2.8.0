@@ -14,6 +14,6 @@ class libxml2 {
 
   package {
     'boxen/brews/libxml2':
-      ensure  => $imagemagick::config::version ;
+      ensure  => $libxml2::config::version ;
   }
 }
